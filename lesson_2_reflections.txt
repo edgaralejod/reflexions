@@ -1,0 +1,7 @@
+What happens when you initialize a repository? 
+Why do you need to do it?
+
+When you initialize a repository git software creates all the 
+necessary files and file structures needed to keep track of the
+files residing in that repository. This is necessary because 
+this structure is necessary to use git.
