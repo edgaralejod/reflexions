@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Assuming that one of the versions of the files to be compared is correct; 
+looking at the difference between files should be an obvious way to find a bug. 
+This highlights the sections that were changed and then finding what went wrong 
+in the last editing should be obvious.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+Having the history of the changes made to the source files allow you to 
+be more efficient by having a saved history of all the changed made. 
+Without a tool like this one, Great amount of time could be spent 
+finding what went wrong in the last hours of work.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, likek you do in Git, vs having versions autmatically saved, like
+Google Docs does?
+
+The pros of selecting when to commit are that you are always in control of
+what the history of the commitments will be. You can select when a change 
+is important enough to keep a screen shot of it. The cons would be if you
+loose reference and create a big change or if you forget to commit at certain
+point.
+
+Why do you think some version control systems, like Git, allow saving
+multiple files in one commit, while others, like Google Docs, treat
+each file separately?
+
+Allowing the save and tracking of several files is very important for programming
+purposes. More likely than not bit projects depend in several files to function
+correctly. Without having this option Git wouldn't be such a powerful tool for
+software development.
+
+How can you use the commands git log and git diff to view the history of
+files?
+
+git log allows you to get a list of all the commits done to the project.
+by using the diff command is it possible to check wich lines were added
+or deleted from previous versions of the files.
+
+How might using version control make you more confident to make changes that could
+break something.
+
+By using the checkout command in git, it is possible to take the code to a previous state
+that would allow to check which of the most recent changes created a bug in the later
+versions.
+
+What do I want to use Git for?
+
+I want to use git for all my software and hardware development projects. Git is one of
+the most wide used and popular tools nowadays and that is why I want to use it.
