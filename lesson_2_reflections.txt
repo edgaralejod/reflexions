@@ -26,3 +26,17 @@ help?
 When new ideas or new experiments would like to be tried. 
 Branching allows to make modifications in parallel with 
 a known working code at certain point in time.
+
+How do the diagramas help you visualize the branch structure?
+
+Diagrams allow to graphically observe the parents of every commit. 
+This can be helpful to find branches that are not reacheble.
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+The result of merging to branches is a unified file that has
+the changes introduced in both branches to all the files that
+are being tracked by the system. The diagram just presents exactly
+what happens that is creating a single path from two different 
+branches.
