@@ -12,5 +12,3 @@ the repository? What value does it offer?
 The staging area is a middle ground between the working directory 
 and the repository. It allows control of which of the files
 in the working repository should be added to the new commit.
-
-test
