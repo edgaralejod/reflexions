@@ -12,3 +12,17 @@ the repository? What value does it offer?
 The staging area is a middle ground between the working directory 
 and the repository. It allows control of which of the files
 in the working repository should be added to the new commit.
+
+How can you use the staging area to make sure you have
+one commit per logical change?
+
+by staging files just when the file changed in such a way
+that it requires commitment.
+
+What are some situations when branches would be helpful in 
+keeping your history organized? How would branches 
+help?
+
+When new ideas or new experiments would like to be tried. 
+Branching allows to make modifications in parallel with 
+a known working code at certain point in time.
