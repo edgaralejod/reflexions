@@ -1,1 +1,7 @@
+When would you want to use a remote repository rather than keeping 
+all your work local?
 
+A remote repository will help you to have a more secure backup of 
+your projects. There are many ways in which information in the 
+personal computer could be lost. This give an extra layer of
+confidence to save all the data.
